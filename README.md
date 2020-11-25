@@ -1,4 +1,4 @@
-# vue-drag-performance
+# chrome-vue-draggable-performance
 
 ## Project setup
 ```
